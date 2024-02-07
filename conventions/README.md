@@ -19,7 +19,7 @@
 
 使用该模板进行初始化，请遵循以下步骤：
 
-1. 克隆 [F-MkDocs-Template](https://github.com/CS-ZIJI/F-MkDocs-Template){target="_blank"} 作为 codebase
+1. 克隆 [F-MkDocs-Template](https://github.com/CS-ZIJI/F-MkDocs-Template){target="_blank"} 作为 codebase，删除 `.git` 和 `.cache`，并以剩下的部分作为 first commit（即 **first commit 不要包含笔记内容**）
 2. 修改 `mkdocs.yaml` 来进行基础设置
     1. 检查所有 `#TODO` 注释，其中 `nav` 需要在文章内容更新过程中同步进行修改
     2. 具体每个配置项的含义，请参考注释
