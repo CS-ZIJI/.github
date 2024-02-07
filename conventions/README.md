@@ -23,7 +23,7 @@
 2. 修改 `mkdocs.yaml` 来进行基础设置
     1. 检查所有 `#TODO` 注释，其中 `nav` 需要在文章内容更新过程中同步进行修改
     2. 具体每个配置项的含义，请参考注释
-3. 修改 `docs/index.md@ -> README.md` 来填写课程信息，初始化内容
+3. 修改 `docs/index.md` 来填写课程信息，初始化内容
 4. 在组织中创建 repo，启动 GitHub Action、Pages 服务，并提交 commit，检查是否正常
 5. 修改 repo 的 About 项，填入 page URL
 
