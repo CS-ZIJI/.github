@@ -15,11 +15,11 @@
 > [!IMPORTANT]
 > 初始化操作可联系常驻维护者代为设置，但如果你有兴趣自己设置也可以遵循如下步骤。
 
-目前 ZIJI 提供了 MkDocs 的快速设置模板 [F-MkDocs-Template](https://github.com/CS-ZIJI/F-MkDocs-Template){target="_blank"}，维护着可以选择基于本仓库进行内容编写，专注于内容编写而无需在意其它的配置内容。
+目前 ZIJI 提供了 MkDocs 的快速设置模板 [F-MkDocs-Template](https://github.com/CS-ZIJI/F-MkDocs-Template)，维护者可以选择基于本仓库进行内容编写，专注于内容编写而无需在意其它的配置内容。
 
 使用该模板进行初始化，请遵循以下步骤：
 
-1. 克隆 [F-MkDocs-Template](https://github.com/CS-ZIJI/F-MkDocs-Template){target="_blank"} 作为 codebase，删除 `.git` 和 `.cache`，并以剩下的部分作为 first commit（即 **first commit 不要包含笔记内容**）
+1. 克隆 [F-MkDocs-Template](https://github.com/CS-ZIJI/F-MkDocs-Template) 作为 codebase，删除 `.git` 和 `.cache`，并以剩下的部分作为 first commit（即 **first commit 不要包含笔记内容**）
 2. 修改 `mkdocs.yaml` 来进行基础设置
     1. 检查所有 `#TODO` 注释，其中 `nav` 需要在文章内容更新过程中同步进行修改
     2. 具体每个配置项的含义，请参考注释
@@ -61,5 +61,5 @@
 
 - 引用内容做好来源标注
 - 中西文之间使用空格隔开，例如：「不论 R/W 置任何值，读操作都在正常进行」
-- 不要混用中文括号 `（）` 和英文括号 `()`，建议使用英文括号 `()` 进行术语翻译，用中文括号 `（）` 进行补充说明，例如：「**浙江大学(Zhejiang University, ZJU)**位于浙江省杭州市（这里特指紫荆港校区）」
-- 更多内容可以参考 xg 的这份 [文档降压宝典](https://hypotensor.tonycrane.cc/ta/typesetting/){target="_blank"}
+- 不要混用中文括号 `（）` 和英文括号 `()`，建议使用英文括号 `()` 进行术语翻译，用中文括号 `（）` 进行补充说明，例如：「**浙江大学(Zhejiang University, ZJU)**位于浙江省杭州市（这里特指紫金港校区）」
+- 更多内容可以参考 xg 的这份 [文档降压宝典](https://hypotensor.tonycrane.cc/ta/typesetting/)
