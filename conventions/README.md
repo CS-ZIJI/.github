@@ -1,5 +1,8 @@
 # 社区约定
 
+> [!WARNING]
+> 正在考虑将本页内容迁移至[该页](https://cs-ziji.github.io/contribution)，本页仅做暂存，请以[该页](https://cs-ziji.github.io/contribution)内容为准。
+
 本文主要是为了统一社区贡献风格而做的一些约定，以向贡献者提供更好的协作体验、向资源使用者提供更好的阅读体验。
 
 - [社区约定](#社区约定)
