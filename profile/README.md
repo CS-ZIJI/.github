@@ -1,4 +1,4 @@
-# CS-ZIJI
+# ZIJI-CS
 
 ZJU x WIKI -> ZIJI 谐音“自给”
 
